@@ -4,4 +4,4 @@
 * lime
 * salt
 ## Instructions
-* pu avocado into a bowl
+* put three avocados into a HUGE bowl
